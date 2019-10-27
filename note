@@ -1,0 +1,5 @@
+css: $$('<css>')
+xpath: $x('<xpath>')
+
+robot -d results -e ignore -s demo_variable .
+robot -d results -e ignore -i smoke demo_variable.robot

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>workshop</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.robotframework.ide.eclipse.main.plugin.robotLibrariesBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.robotframework.ide.eclipse.main.plugin.robotNature</nature>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>libspecs/BuiltIn.py</name>
+			<type>1</type>
+			<location>/Users/keng/Coding/robot_framework/robotenv/lib/python3.7/site-packages/robot/libraries/BuiltIn.py</location>
+		</link>
+		<link>
+			<name>libspecs/Dialogs.py</name>
+			<type>1</type>
+			<location>/Users/keng/Coding/robot_framework/robotenv/lib/python3.7/site-packages/robot/libraries/Dialogs.py</location>
+		</link>
+		<link>
+			<name>libspecs/SeleniumLibrary.py</name>
+			<type>1</type>
+			<location>/Users/keng/Coding/robot_framework/robotenv/lib/python3.7/site-packages/SeleniumLibrary/__init__.py</location>
+		</link>
+	</linkedResources>
+</projectDescription>
